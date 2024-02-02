@@ -1,0 +1,26 @@
+Row Labels,Count of type
+cdm.base.datetime,28
+cdm.base.math,17
+cdm.base.staticdata.asset.common,29
+cdm.base.staticdata.asset.credit,3
+cdm.base.staticdata.identifier,4
+cdm.base.staticdata.party,22
+cdm.event.common,60
+cdm.event.position,11
+cdm.event.workflow,15
+cdm.legaldocumentation.common,15
+cdm.legaldocumentation.contract,1
+cdm.legaldocumentation.csa,3
+cdm.legaldocumentation.master,18
+cdm.observable.asset,54
+cdm.observable.asset.calculatedrate,8
+cdm.observable.asset.fro,3
+cdm.observable.event,12
+cdm.product.asset,56
+cdm.product.asset.floatingrate,4
+cdm.product.collateral,26
+cdm.product.common.schedule,29
+cdm.product.common.settlement,31
+cdm.product.template,69
+cdm.regulation,29
+Grand Total,547
